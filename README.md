@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, my name is Judith 
+#### I am a front-end developer in training 
+![I am a front-end developer in training ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Jud1th1/Jud1th1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to code and design! I'm interested in Front-end programming, creating beautiful webpages that ease and provide great user experiences. 
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / UX|UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Interactive Images 
+- 🌱 I’m currently learning Advanced CSS 
+- 👯 I’m looking to collaborate on Designs and coding for accessibilty 
+- 🤔 I’m looking for help with Portfolio/resume building 
+- 📫 How to reach me: jf.jud1th1@gmail.com 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I love extra spicy food 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jud1th1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/judith-jean-francoisdesigner/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Jud1th1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Jud1th1)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jud1th1)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jud1th1&show_icons=true)  
