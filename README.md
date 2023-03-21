@@ -4,7 +4,7 @@
 
 I love to code and design! I'm interested in Front-end programming, creating beautiful webpages that ease and provide great user experiences. 
 
-Skills: HTML / CSS / JS / UX|UI
+Skills: HTML / CSS / JS / UX+UI
 
 - 🔭 I’m currently working on Interactive Images 
 - 🌱 I’m currently learning Advanced CSS 
