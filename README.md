@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Judith 
 #### I am a front-end developer in training 
-![I am a front-end developer in training ](https://github.com/Jud1th1/Jud1th1/blob/main/Readme%20pic.png?raw=true)
+![I am a front-end developer in training ](https://github.com/Jud1th1/Jud1th1/blob/main/REad%20me.png?raw=true)
 
 I love to code and design! I'm interested in Front-end programming, creating beautiful webpages that ease and provide great user experiences. 
 
