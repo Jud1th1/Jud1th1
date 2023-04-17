@@ -6,8 +6,8 @@ I love to code and design! I'm interested in Front-end programming, creating bea
 
 Skills: HTML / CSS / JS / UX+UI
 
-- 🔭 I’m currently working on Interactive Images 
-- 🌱 I’m currently learning Advanced CSS 
+- 🔭 I’m currently working on learning JavaScript
+- 🌱 I’m currently learning Advanced CSS + JS
 - 👯 I’m looking to collaborate on Designs and coding for accessibilty 
 - 🤔 I’m looking for help with Portfolio/resume building 
 - 📫 How to reach me: jf.jud1th1@gmail.com 
