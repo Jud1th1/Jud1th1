@@ -1,14 +1,13 @@
 ### Hi there 👋, my name is Judith 
-#### I am a front-end developer in training 
-![I am a front-end developer in training ](https://github.com/Jud1th1/Jud1th1/blob/main/coverimage.png?raw=true)
+#### I am a web developer in training 
+![I am a web developer in training ](https://github.com/Jud1th1/Jud1th1/blob/main/coverimage.png?raw=true)
 
-I love to code and design! I'm interested in Front-end programming, creating beautiful webpages that ease and provide great user experiences. 
+I love to code and design! I'm interested in programming, creating beautiful webpages that ease and provide great user experiences. 
 
-Skills: HTML / CSS / JS / UX+UI
+Skills: HTML / CSS / JS / REACT / PYTHON / UX+UI
 
-- 🔭 I’m currently working on learning JavaScript
-- 🌱 I’m currently learning Advanced CSS + JS
-- 👯 I’m looking to collaborate on Designs and coding for accessibilty 
+- 🔭 I’m currently working on learning Python
+- 👯 I’m looking to collaborate on designs and coding for accessibilty 
 - 🤔 I’m looking for help with Portfolio/resume building 
 - 📫 How to reach me: jf.jud1th1@gmail.com 
 - 😄 Pronouns: she/her 
