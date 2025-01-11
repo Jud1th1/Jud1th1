@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Judith 
-#### I am a web developer in training 
-![I am a web developer in training ](https://github.com/Jud1th1/Jud1th1/blob/main/coverimage.png?raw=true)
+#### I am a Web Developer 
+![LinkedIn Banner](https://github.com/user-attachments/assets/0905ba41-ba81-4976-b7ba-77f9d1e6e257)
+
 
 I love to code and design! I'm interested in programming, creating beautiful webpages that ease and provide great user experiences. 
 
