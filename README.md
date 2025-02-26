@@ -24,11 +24,7 @@ I love to code and design! I'm interested in programming, creating beautiful web
 
 
 ### Connect With Me:
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jud1th1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-jean-francoisdesigner/)  
-[![CodePen](https://img.shields.io/badge/CodePen-ffdd57?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Jud1th1)  
-[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-7900FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/Jud1th1)  
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jud1th1)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-jean-francoisdesigner/)  [![CodePen](https://img.shields.io/badge/CodePen-ffdd57?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Jud1th1)  [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-7900FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/Jud1th1)  
 
- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jud1th1)](https://github.com/anuraghazra/github-readme-stats)
