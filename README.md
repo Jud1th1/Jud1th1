@@ -8,7 +8,7 @@ I love to code and design! I'm interested in programming, creating beautiful web
 ### Skills:  
 ![HTML](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)  ![UX/UI](https://img.shields.io/badge/UX/UI-FF007F?style=for-the-badge&logo=figma&logoColor=white)  
 
-###About Me
+### About Me:
 - 🚀 Currently Learning: Python & Backend Development
 - 🌍 Passions & Collaboration: I'm passionate about building accessible, engaging tech and working with others to create projects that are creative and inclusive for everyone.💡
 - 📌 Seeking Help With: Building a strong portfolio & resume
