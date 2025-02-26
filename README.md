@@ -5,7 +5,7 @@
 
 I love to code and design! I'm interested in programming, creating beautiful webpages that ease and provide great user experiences. 
 
-Skills: HTML <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a> / CSS / JS / jQUERY/ REACT / PYTHON / UX+UI
+Skills: HTML ![image](https://github.com/user-attachments/assets/98587049-8b4d-4d61-a9d7-b302a9fe3f7a)/ CSS / JS / jQUERY/ REACT / PYTHON / UX+UI
 
 
 - 🔭 I’m currently working on learning Python
