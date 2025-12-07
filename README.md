@@ -9,12 +9,12 @@ Focused on creating polished web experiences with HTML, CSS, JavaScript, and acc
 
 ## Skills:  
 
-![HTML](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)  ![UX/UI](https://img.shields.io/badge/UX/UI-FF007F?style=for-the-badge&logo=figma&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![UX/UI](https://img.shields.io/badge/UX/UI-FF007F?style=for-the-badge&logo=figma&logoColor=white)  
 
 **Front-End:** HTML5, CSS3, JavaScript (ES6+), jQuery, Responsive Design  
 **UI:** Component layouts, wireframing, prototyping, accessibility (WCAG)  
 **Tools:** Git/GitHub, VS Code, Chrome DevTools, Canva, Figma  
-**Learning:** React.js
+**Learning / Improving:** React.js
 
 
 ##  ✨ About Me:
@@ -23,6 +23,7 @@ Focused on creating polished web experiences with HTML, CSS, JavaScript, and acc
 - 🧠 Currently reviewing JavaScript fundamentals and growing my React skills.
 - 🤝 I enjoy collaborating on projects that involve UI cleanup, layout improvements, and user experience enhancements.
 - 💬 Always happy to connect with other devs — reach me at **jf.jud1th1@gmail.com**.
+  
 - 🎨 Hobbies & Interests: I love painting, reading, and getting lost in The Sims 4 for hours! 🎮💡
 - 🐾 Cat mom to Willow & Amara, the true leaders of my household.
 - 🕹️ Outside of coding: The Sims 4, anime, Marvel movies, cooking, and creative projects.
