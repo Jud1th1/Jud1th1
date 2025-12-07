@@ -1,9 +1,10 @@
 ### Hi there 👋, my name is Judith 
-#### I am a Web Developer 
+#### Front-End Developer | UI Developer | Designer
 ![LinkedIn Banner](https://github.com/user-attachments/assets/0905ba41-ba81-4976-b7ba-77f9d1e6e257)
 
 
-I love to code and design! I'm interested in programming, creating beautiful webpages that ease and provide great user experiences. 
+I love building clean, intuitive, and responsive user interfaces.  
+Focused on creating polished web experiences with HTML, CSS, JavaScript, and accessible UI patterns.
 
 ### Skills:  
 ![HTML](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)  ![UX/UI](https://img.shields.io/badge/UX/UI-FF007F?style=for-the-badge&logo=figma&logoColor=white)  
