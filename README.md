@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Judith 
 #### Front-End Developer | UI Developer | Designer
-![LinkedIn Banner]<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/b36881a6-5d53-4d8e-bd95-b1b51b2659d4" />
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/b36881a6-5d53-4d8e-bd95-b1b51b2659d4" />
 
 I love building clean, intuitive, and responsive user interfaces.  
 Focused on creating polished web experiences with HTML, CSS, JavaScript, and accessible UI patterns.
